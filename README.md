@@ -1,4 +1,4 @@
-### Hi there, I'm Do Duc Thuan 👋
+### 👋 Hi there, I'm Do Duc Thuan 👨‍💻
 
 
 
