@@ -14,7 +14,10 @@
   </a> 
   <a href="https://github.com/doducthuan" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
+  </a>
+  <a href="https://docs.google.com/document/d/1wGSbWfRnk72M1DghlTCANe2YaejM8Uh5LXxq1A3XZZg/edit" alt="Email">
+    <img src="https://img.icons8.com/clouds/344/gmail-new.png"/>
+  </a>
 </p>
 
 ## Skills:
