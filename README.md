@@ -12,11 +12,8 @@
   <a href="https://www.facebook.com/doducthuan1999" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/doducthuan" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a>
-  <a href="https://docs.google.com/document/d/1wGSbWfRnk72M1DghlTCANe2YaejM8Uh5LXxq1A3XZZg/edit" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  <a href="https://www.linkedin.com/in/doducthuan1999" alt="LinkedIn">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
 </p>
 
